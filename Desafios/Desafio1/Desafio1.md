@@ -1,4 +1,6 @@
-Amigo-de-Pablo
+###Amigo-de-Pablo
+
+
 Todo final de ano ocorre uma festa na escola. As inscrições para participar da festa são abertas no início de julho. 
 No momento da inscrição, o aluno pode escolher se quer ser "O Amigo do Pablo" na festa ou não. O mais lógico seria escolher a opção 
 Sim, afinal, é um privilégio ser O Amigo do Pablo, já que ele é a pessoa mais descolada da escola. Porém, há indivíduos que definitivamente 
